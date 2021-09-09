@@ -11,7 +11,7 @@ For this assignment, write a React web application that will handle the followin
 
 ## Specifics
 
-Build your application according to the following desig: https://www.figma.com/file/3J87foE1c4LM1poiezyfDW/Cera-FE-Assignment?node-id=0%3A1
+Build your application according to the following design: https://www.figma.com/file/3J87foE1c4LM1poiezyfDW/Cera-FE-Assignment?node-id=0%3A1
 
 - Fetch the carers, using the following REST endpoint: https://ceracare.github.io/carers.json
 - Check for available slots for your carer using the following REST endpoint: https://ceracare.github.io/availableSlots.json
