@@ -3,42 +3,42 @@
     {
       "name": "Joan",
       "slots": 4,
-      "photo": "https://img.freepik.com/premium-photo/young-caucasian-doctor-pandemic-virus_1258-16570.jpg"
+      "photo": "https://ceracare.github.io/assets/joan.jpg"
     },
     {
       "name": "Jon",
       "slots": 10,
-      "photo": "https://img.freepik.com/premium-photo/bad-news-nurse-holding-binder-wearing-stethoscope-mature-bearded-male-doctor-with-folder-uniform-standing-portrait-serious-nurse-with-folder-he-is-wearing-stethoscope_474717-40771.jpg"
+      "photo": "https://ceracare.github.io/assets/jon.jpg"
     },
     {
       "name": "Richard",
       "slots": 6,
-      "photo": "https://img.freepik.com/free-photo/male-nurse-working-clinic_23-2149868924.jpg"
+      "photo": "https://ceracare.github.io/assets/richard.jpg"
     },
     {
       "name": "Marie",
       "slots": 1,
-      "photo": "https://img.freepik.com/free-photo/woman-doctor-wearing-lab-coat-with-stethoscope-isolated_1303-29791.jpg"
+      "photo": "https://ceracare.github.io/assets/marie.jpg"
     },
     {
       "name": "Beth",
       "slots": 12,
-      "photo": "https://img.freepik.com/free-photo/female-nurse-working-clinic_23-2149868952.jpg"
+      "photo": "https://ceracare.github.io/assets/beth.jpg"
     },
     {
       "name": "Dan",
       "slots": 0,
-      "photo": "https://img.freepik.com/premium-photo/middleeastern-doctor-closeup-portrait_622301-3352.jpg"
+      "photo": "https://ceracare.github.io/assets/dan.jpg"
     },
     {
       "name": "Ariel",
       "slots": 14,
-      "photo": "https://img.freepik.com/free-photo/portrait-nurse-scrubs-clinic_23-2149844704.jpg"
+      "photo": "https://ceracare.github.io/assets/ariel.jpg"
     },
     {
       "name": "Kara",
       "slots": 9,
-      "photo": "https://img.freepik.com/free-photo/portrait-young-nurse-holding-laptop-white_114579-72754.jpg"
+      "photo": "https://ceracare.github.io/assets/kara.jpg"
     }
   ]
 }
