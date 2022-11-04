@@ -17,10 +17,20 @@ Build your application according to the following design: https://www.figma.com/
 - Check for available slots for your carer using the following REST endpoint: https://ceracare.github.io/availableSlots.json
 - To schedule a carer on a specific time slot, call the following REST endpoint: https://ceracare.github.io/bookSlot.json
 
-## Other
+## Specifics
+Build your application according to the following designs 
 
-Include a README file detailing your approach.
-Please spend a max of 4 hours on this assignment. If you feel like there is something missing, just describe what you would've done in your README file.
-Write your code as if it were production code
+![Carer Page](designs/carer-page.png)
+![Schedule a carer](designs/schedule-a-carer.png)
 
-Please share your assignment by sharing with us a link to your repository.
+- Fetch the carers, using the following REST endpoint: https://ceracare.github.io/carers.json
+- Check for available slots for your carer using the following REST endpoint: https://ceracare.github.io/availableSlots.json
+- To schedule a carer on a specific time slot, call the following REST endpoint: https://ceracare.github.io/bookSlot.json
+
+
+## How to submit
+- Share your assignment by sharing with us a link to your repository.
+- Spend a maximum of 12 hours on this assignment. If you feel like there is something missing, just describe what you would've done in your README file. Write your code as if it were production code.
+
+Note: Feel free to add any extra design choices or packages to help you in development. If so make sure it's documented
+
